@@ -1,2 +1,4 @@
 #! /bin/bash
-date 
+date
+cal
+ls /tmp/vikas
